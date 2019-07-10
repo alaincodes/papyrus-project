@@ -1,0 +1,41 @@
+{
+  "name": "papyrus-project",
+  "version": "1.0.0",
+  "description": "For people who want to talk but not too much.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaincodes/papyrus-project.git"
+  },
+  "keywords": [
+    "blog",
+    "post",
+    "talk",
+    "nextjs",
+    "reactjs",
+    "javascript",
+    "blogging",
+    "mini"
+  ],
+  "author": "Alain Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaincodes/papyrus-project/issues"
+  },
+  "homepage": "https://github.com/alaincodes/papyrus-project#readme",
+  "dependencies": {
+    "next": "^9.0.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.6"
+  }
+}

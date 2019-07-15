@@ -60,7 +60,9 @@ function Footer() {
         </ul>
       </div>
       <div>
-        <p>Alain Tran 2019 - Built with NextJS - Illustrations by unDraw.</p>
+        <p>
+          Papyrus &copy; 2019 - Built with NextJS - Illustrations by unDraw.
+        </p>
       </div>
     </FooterSection>
   );

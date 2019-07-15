@@ -10,10 +10,11 @@ const HeaderLanding = styled.header`
   .header-title {
     color: #535461;
     padding: 0 1rem;
+    font-size: 1.5rem;
     button {
       background: transparent;
       border-radius: 4px;
-      padding: 0.4rem;
+      padding: 0.6rem 1rem;
       margin: 1rem 0;
       border: 1px solid #ff775f;
       color: #ff775f;

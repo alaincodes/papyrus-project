@@ -4,6 +4,7 @@ import Header from "../components/Header";
 import Discover from "../components/Discover";
 import HowTo from "../components/HowTo";
 import Footer from "../components/Footer";
+import styled from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
     :root {

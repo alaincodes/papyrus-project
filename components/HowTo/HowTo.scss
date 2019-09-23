@@ -1,0 +1,28 @@
+@import '../colors';
+@import "../globals";
+
+.howto-section {
+  height: 70vh;
+  background: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  max-width: 900px;
+  margin: auto;
+  color: #ff775f;
+  img {
+    width: 400px;
+  }
+  h1 {
+    margin: 1rem auto;
+    font-size: 2rem;
+  }
+  ul {
+    list-style-type: none;
+    li {
+      font-size: 1.6rem;
+      font-weight: 500;
+      color: #535461;
+    }
+  }
+}
